@@ -18,13 +18,13 @@
 
 ```
 > whoami
-Emery "Rewrite" — Computer Science student, IAI-Togo (2nd year, Tronc Commun)
+Emery "Rewrite", Computer Science student, IAI-Togo (2nd year, Tronc Commun)
 Currently designing an operating system inspired by Linux, TempleOS & GrapheneOS.
 Learning by breaking things, then rebuilding them properly.
 ```
 
 - 🔭 &nbsp;Currently building **Rewrite_OS**, my own operating system - developed and tested in VM (VirtualBox/QEMU)
-- 🌱 &nbsp;Currently deepening **networking, Cisco CCNA, and cybersecurity fundamentals,Wireshark,Docker**
+- 🌱 &nbsp;Currently deepening **networking, Cisco CCNA, and cybersecurity fundamentals, Wireshark, Docker**
 - 👯 &nbsp;I'm looking to collaborate on **beginner-friendly coding projects and open-source tools**
 - 🎯 &nbsp;Goal: **become a systems/cybersecurity engineer**, master low-level development
 - 🤔 &nbsp;I'm looking for help with **OS development , low-level systems concepts, and Cybersecurity** 
@@ -60,7 +60,7 @@ Learning by breaking things, then rebuilding them properly.
 <td align="center" style="padding:20px;">
 <h3>🖥️ Rewrite_OS</h3>
 <p><i>A custom operating system built from scratch, inspired by Linux, TempleOS & GrapheneOS.<br/>
-Developed and tested entirely in VM (VirtualBox / QEMU) — an ambitious, long-term systems project.</i></p>
+Developed and tested entirely in VM (VirtualBox / QEMU) - an ambitious, long-term systems project.</i></p>
 <img src="https://img.shields.io/badge/Status-In_Development-7c3aed?style=flat-square" alt="status"/>
 <img src="https://img.shields.io/badge/Language-C_%26_Assembly-06b6d4?style=flat-square" alt="lang"/>
 </td>
