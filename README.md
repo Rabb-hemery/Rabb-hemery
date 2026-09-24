@@ -25,9 +25,11 @@ Learning by breaking things, then rebuilding them properly.
 
 - 🔭 &nbsp;Currently building **Rewrite_OS**, my own operating system — developed and tested in VM (VirtualBox/QEMU)
 - 🌱 &nbsp;Currently deepening **networking, Cisco CCNA, and cybersecurity fundamentals**
+- 👯 &nbsp;I'm looking to collaborate on **beginner-friendly coding projects and open-source tools**
 - 🎯 &nbsp;Goal: **become a systems/cybersecurity engineer**, master low-level development
+- 🤔 &nbsp;I'm looking for help with **OS development , low-level systems concepts, and Cybersecurity** 
 - 💬 &nbsp;Ask me about **OS development, Linux, databases, or how to start from zero**
-- ⚡ &nbsp;Fun fact: **writing my own OS before finishing my CS degree**
+- ⚡ &nbsp;Fun fact: **I'm building my own OS before I've even finished my CS degree.**
 
 <br/>
 
