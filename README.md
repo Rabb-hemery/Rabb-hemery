@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=200&section=header&text=Rewrite&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20systems%20from%20the%20ground%20up&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+Rewrite_OS+from+scratch+%F0%9F%9A%80;Linux+%7C+Networks+%7C+Cybersecurity+%7C+Low-Level+Systems;Learn.+Build.+Break.+Rebuild.;Good Afternoon.+Good Evening.+And+Good Night." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+Rewrite_OS+from+scratch+%F0%9F%9A%80;Linux+%7C+Networks+%7C+Cybersecurity+%7C+Low-Level+Systems;Learn.+Build.+Break.+Rebuild.;Good+Afternoon.+Good+Evening.+And+Good+Night." alt="Typing SVG" />
 
 <br/>
 
