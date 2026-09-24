@@ -23,12 +23,13 @@ Currently designing an operating system inspired by Linux, TempleOS & GrapheneOS
 Learning by breaking things, then rebuilding them properly.
 ```
 
-- 🔭 &nbsp;Currently building **Rewrite_OS**, my own operating system — developed and tested in VM (VirtualBox/QEMU)
-- 🌱 &nbsp;Currently deepening **networking, Cisco CCNA, and cybersecurity fundamentals**
+- 🔭 &nbsp;Currently building **Rewrite_OS**, my own operating system - developed and tested in VM (VirtualBox/QEMU)
+- 🌱 &nbsp;Currently deepening **networking, Cisco CCNA, and cybersecurity fundamentals,Wireshark,Docker**
 - 👯 &nbsp;I'm looking to collaborate on **beginner-friendly coding projects and open-source tools**
 - 🎯 &nbsp;Goal: **become a systems/cybersecurity engineer**, master low-level development
 - 🤔 &nbsp;I'm looking for help with **OS development , low-level systems concepts, and Cybersecurity** 
 - 💬 &nbsp;Ask me about **OS development, Linux, databases, or how to start from zero**
+- 😄 &nbsp;Pronouns: **he/him** 
 - ⚡ &nbsp;Fun fact: **I'm building my own OS before I've even finished my CS degree.**
 
 <br/>
@@ -46,7 +47,8 @@ Learning by breaking things, then rebuilding them properly.
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cisco_CCNA-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Cisco_CCNA1-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=green" alt="Vim" />
 </p>
 
 <br/>
@@ -96,6 +98,12 @@ Developed and tested entirely in VM (VirtualBox / QEMU) — an ambitious, long-t
 
 <br/>
 
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+<br/>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0f172a&height=100&section=footer" width="100%"/>
 <i>⭐️ From <a href="https://github.com/Rabb-hemery">Rabb-hemery</a> — building the future, one commit at a time.</i>
