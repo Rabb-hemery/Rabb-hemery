@@ -73,7 +73,7 @@ Developed and tested entirely in VM (VirtualBox / QEMU) - an ambitious, long-ter
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=06b6d4&hide_border=true&bg_color=00000000&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&theme=tokyonight&title_color=7c3aed&icon_color=06b6d4&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&theme=tokyonight&title_color=7c3aed&icon_color=06b6d4&hide_border=true&bg_color=00000000&langs_count=11" alt="top langs"/>
 </p>
 
 <p align="center">
