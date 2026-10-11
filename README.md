@@ -96,6 +96,20 @@ Learning by breaking things, then rebuilding them properly.
 
 </div>
 
+## ⚡ Rewrite_OS — Boot Sequence
+
+<p align="center">
+  <img
+    src="./assets/rewrite-os-boot.svg"
+    alt="Rewrite_OS animated boot sequence"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Learn. Build. Break. Rebuild.</i>
+</p>
+
 
 ### 📊 GitHub Stats
 
