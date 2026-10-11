@@ -55,36 +55,123 @@ Learning by breaking things, then rebuilding them properly.
 
 ### 🧩 Featured Project
 
-<table width="100%">
-<tr>
-<td align="center" style="padding:20px;">
-<h3>🖥️ Rewrite_OS</h3>
-<p><i>A custom operating system built from scratch, inspired by Linux, TempleOS & GrapheneOS.<br/>
-Developed and tested entirely in VM (VirtualBox / QEMU) - an ambitious, long-term systems project.</i></p>
-<img src="https://img.shields.io/badge/Status-In_Development-7c3aed?style=flat-square" alt="status"/>
-<img src="https://img.shields.io/badge/Language-C_%26_Assembly-06b6d4?style=flat-square" alt="lang"/>
-</td>
-</tr>
-</table>
+<!-- ===== FEATURED PROJECT ===== -->
 
-<br/>
+<h2 align="center">🖥️ Featured Project</h2>
+
+<div align="center">
+
+<h3>Rewrite_OS</h3>
+
+<p>
+  <strong>A learning-driven operating system project.</strong>
+</p>
+
+<p>
+  Exploring operating system architecture, low-level programming,
+  memory management, and the interaction between software and hardware.
+</p>
+
+<a href="https://github.com/Rabb-hemery/Rabb-hemery">
+  <img
+    src="https://img.shields.io/badge/Project-Rewrite__OS-7c3aed?style=for-the-badge"
+    alt="Rewrite OS project"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Focus-Operating_Systems-0f172a?style=flat-square"
+  alt="Operating systems"
+/>
+<img
+  src="https://img.shields.io/badge/Focus-Low--Level_Programming-06b6d4?style=flat-square"
+  alt="Low-level programming"
+/>
+<img
+  src="https://img.shields.io/badge/Status-In_Development-7c3aed?style=flat-square"
+  alt="In development"
+/>
+
+</div>
+
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=tokyonight&title_color=7c3aed&icon_color=06b6d4&hide_border=true&bg_color=00000000&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&theme=tokyonight&title_color=7c3aed&icon_color=06b6d4&hide_border=true&bg_color=00000000&langs_count=12" alt="top langs"/>
-</p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Rabb-hemery&bg_color=00000000&color=7c3aed&line=06b6d4&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-</p>
+<!-- CONTRIBUTION SNAKE -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabb-hemery&theme=tokyonight&hide_border=true&background=00000000&ring=7c3aed&fire=06b6d4&currStreakLabel=7c3aed" alt="streak"/>
-</p>
+<div align="center">
+
+<h3>🐍 Contribution Graph</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Rabb-hemery/Rabb-hemery/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Rabb-hemery/Rabb-hemery/output/snake-light.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Rabb-hemery/Rabb-hemery/output/snake-light.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+
+
+<!-- ===== GITHUB STATISTICS ===== -->
+
+<div align="center">
+
+<h3>📊 GitHub Statistics</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=a78bfa&hide_border=true&bg_color=0a101f"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=default&title_color=0891b2&icon_color=7c3aed&hide_border=true&bg_color=ffffff"
+    alt="Rewrite GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=8&theme=tokyonight&title_color=22d3ee&hide_border=true&bg_color=0a101f"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=8&theme=default&title_color=0891b2&hide_border=true&bg_color=ffffff"
+    alt="Most used programming languages"
+  />
+</picture>
 
 <br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Rabb-hemery&theme=dark&hide_border=true&background=0a101f&ring=a78bfa&fire=10b981&currStreakLabel=22d3ee"
+  />
+  <img
+    width="100%"
+    src="https://streak-stats.demolab.com/?user=Rabb-hemery&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=059669&currStreakLabel=0891b2"
+    alt="Rewrite contribution streak"
+  />
+</picture>
+
+</div>
+
 
 ### 🔗 Connect
 
