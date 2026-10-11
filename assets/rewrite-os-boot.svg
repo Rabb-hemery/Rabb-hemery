@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rewrite_OS boot sequence</title>
+  <desc id="desc">Animated dark terminal with violet and cyan accents, showing a simulated Rewrite_OS startup sequence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090b16"/>
+      <stop offset="100%" stop-color="#111027"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#7c3aed" stroke-opacity=".12" stroke-width="1"/>
+    </pattern>
+    <clipPath id="screen"><rect x="24" y="24" width="952" height="312" rx="18"/></clipPath>
+  </defs>
+  <rect width="1000" height="360" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="358" rx="21" fill="none" stroke="url(#accent)" stroke-opacity=".7"/>
+  <g clip-path="url(#screen)">
+    <rect x="24" y="24" width="952" height="312" fill="url(#grid)"/>
+    <rect x="24" y="24" width="952" height="42" fill="#14152a"/>
+    <circle cx="49" cy="45" r="5" fill="#fb7185"/>
+    <circle cx="67" cy="45" r="5" fill="#fbbf24"/>
+    <circle cx="85" cy="45" r="5" fill="#34d399"/>
+    <text x="500" y="50" fill="#a5b4fc" font-family="monospace" font-size="13" text-anchor="middle" letter-spacing="3">REWRITE_OS // BOOT CONSOLE</text>
+    <g font-family="monospace" font-size="15">
+      <text x="58" y="104" fill="#22d3ee">[ REWRITE_OS ]</text>
+      <text x="58" y="130" fill="#a78bfa">Initializing core environment...</text>
+      <text x="58" y="158" fill="#94a3b8">&gt; kernel interface</text>
+      <text x="58" y="184" fill="#94a3b8">&gt; memory map</text>
+      <text x="58" y="210" fill="#94a3b8">&gt; device discovery</text>
+      <text x="58" y="236" fill="#94a3b8">&gt; security checks</text>
+      <text x="58" y="262" fill="#94a3b8">&gt; user environment</text>
+      <g fill="#34d399" text-anchor="end">
+        <text x="923" y="158">STAGED</text>
+        <text x="923" y="184">STAGED</text>
+        <text x="923" y="210">STAGED</text>
+        <text x="923" y="236">STAGED</text>
+        <text x="923" y="262">STAGED</text>
+      </g>
+    </g>
+    <rect x="58" y="282" width="865" height="7" rx="3.5" fill="#252442"/>
+    <rect x="58" y="282" width="0" height="7" rx="3.5" fill="url(#accent)" filter="url(#glow)">
+      <animate attributeName="width" values="0;865;865;0" keyTimes="0;0.68;0.9;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="58" y="314" fill="#22d3ee" font-family="monospace" font-size="15" letter-spacing="1.5">
+      <tspan opacity="0">SYSTEM READY</tspan>
+      <tspan opacity="1">SYSTEM READY</tspan>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.65;.72;.9;1" dur="8s" repeatCount="indefinite"/>
+    </text>
+    <rect x="188" y="300" width="9" height="17" rx="1" fill="#a855f7">
+      <animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="923" y="314" fill="#64748b" font-family="monospace" font-size="12" text-anchor="end">LEARN // BUILD // REBUILD</text>
+    <path d="M840 90h62m-31-31v62" stroke="#22d3ee" stroke-opacity=".15" stroke-width="1"/>
+    <circle cx="871" cy="90" r="28" fill="none" stroke="#a855f7" stroke-opacity=".3"/>
+    <circle cx="871" cy="90" r="18" fill="none" stroke="#22d3ee" stroke-opacity=".5" stroke-dasharray="5 7">
+      <animateTransform attributeName="transform" type="rotate" from="0 871 90" to="360 871 90" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
