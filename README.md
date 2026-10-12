@@ -144,45 +144,27 @@ Learning by breaking things, then rebuilding them properly.
 
 <div align="center">
 
-<h3>📊 GitHub Statistics</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=a78bfa&hide_border=true&bg_color=0a101f"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Rabb-hemery&show_icons=true&theme=default&title_color=0891b2&icon_color=7c3aed&hide_border=true&bg_color=ffffff"
-    alt="Rewrite GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=8&theme=tokyonight&title_color=22d3ee&hide_border=true&bg_color=0a101f"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=8&theme=default&title_color=0891b2&hide_border=true&bg_color=ffffff"
-    alt="Most used programming languages"
-  />
-</picture>
-
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Rabb-hemery&theme=dark&hide_border=true&background=0a101f&ring=a78bfa&fire=10b981&currStreakLabel=22d3ee"
-  />
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com/?user=Rabb-hemery&theme=default&hide_border=true&background=ffffff&ring=7c3aed&fire=059669&currStreakLabel=0891b2"
-    alt="Rewrite contribution streak"
-  />
-</picture>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Rabb-hemery">
+        <img src="https://github-stats-extended.vercel.app/api?username=Rabb-hemery&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=B79BFF&icon_color=B79BFF&text_color=C9D1D9&ring_color=B79BFF&cache_seconds=1800" alt="GitHub stats" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Rabb-hemery">
+        <img src="https://streak-stats.demolab.com/?user=Rabb-hemery&hide_border=true&background=0D1117&ring=B79BFF&fire=D6C4FF&currStreakLabel=B79BFF&sideLabels=C9D1D9&dates=8B949E&stroke=2A2540&currStreakNum=B79BFF&sideNums=D6C4FF" alt="GitHub streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Rabb-hemery">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=12&hide_border=true&bg_color=0D1117&title_color=B79BFF&text_color=C9D1D9&cache_seconds=1800" alt="Top languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
