@@ -160,7 +160,7 @@ Learning by breaking things, then rebuilding them properly.
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Rabb-hemery">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=12&hide_border=true&bg_color=0D1117&title_color=B79BFF&text_color=C9D1D9&cache_seconds=1800" alt="Top languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rabb-hemery&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=B79BFF&text_color=C9D1D9&cache_seconds=1800" alt="Top languages" />
       </a>
     </td>
   </tr>
