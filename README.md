@@ -45,10 +45,11 @@ Learning by breaking things, then rebuilding them properly.
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=A074C4" alt="BlackArch"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=vscodium&logoColor=007ACC" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Cisco_CCNA1-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=green" alt="Vim" />
+  <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=green" alt="Vim"/>
 </p>
 
 <br/>
